@@ -1,8 +1,5 @@
 ### Hi, My name is Kavya M
 
-<!--
-**Zac2007/Zac2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - I am currently taking a course on C# and then plan to explore from there.
