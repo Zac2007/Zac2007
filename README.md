@@ -2,9 +2,4 @@
 
 ### Hi, My name is Kavya M
 
-Here are some ideas to get you started:
-
-- I am currently taking a course on C# and then plan to explore from there.
-- I am planning to touch up my Python knowledge to get started on something else.
-- I have not yet decided on what I want collaboration on but I am thinking about it.
-- Not really loking for help at the moment
+I started of coding in Python and decide to explore more with this language. Just,a begginer who wants to slowly start building games and projects. Still a lot of time to get there though :)
